@@ -1,0 +1,9 @@
+ILLUMiNATE v0.0.1
+-----------------------------------------------------------
+Started this last summer (2015) as a small project.
+Supposed to be an OS, though it has very limited functionality at the moment.
+If this ever goes anywhere... make sure you keep this file.
+...
+May it serve as a memory.
+-----------------------------------------------------------
+
